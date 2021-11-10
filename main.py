@@ -3,6 +3,6 @@ def ispalindrome(s):
 s="mom"
 ans=ispalindrome(s)
 if ans:
-   printf("yes")
+   printf("yes,it ia a prime")
 else:
    printf("no")
